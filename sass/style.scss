@@ -1,0 +1,38 @@
+/*!
+Theme Name: Raw labs
+Theme URI: http://underscores.me/
+Author: Gabi Schiopu
+Author URI: http://www.gabischiopu.com
+Text Domain: raw-labs
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned.
+
+Raw labs is based on Underscores https://underscores.me/, (C) 2012-2020 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+@import "variables";
+@import "generic/normalize";
+@import 'modals';
+@import 'animations';
+@import 'page-loader';
+@import "main";
+@import 'navigation';
+@import 'header';
+@import 'footer';
+@import 'news';
+@import 'contact';
+@import 'thankyou';
+@import 'jobs';
+@import 'team';
+@import 'search';
+@import 'get-started';
+@import 'platform';
+@import 'partners';
+@import 'usecases';
+@import 'content-one';
+@import 'content-two';
+@import 'library';

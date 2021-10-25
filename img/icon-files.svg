@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="25px" viewBox="0 0 22 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>document-copy</title>
+    <g id="PPT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Slide8-Copy-2" transform="translate(-922.000000, -491.000000)" stroke="#CD2023" stroke-width="1.5">
+            <g id="document-copy" transform="translate(923.708462, 492.272786)">
+                <rect id="Rectangle" x="0" y="2.93333333" width="16.1333333" height="19.0666667"></rect>
+                <line x1="3.66666667" y1="8.06666667" x2="12.4666667" y2="8.06666667" id="Path"></line>
+                <line x1="3.66666667" y1="12.4666667" x2="12.4666667" y2="12.4666667" id="Path"></line>
+                <line x1="3.66666667" y1="16.8666667" x2="6.6" y2="16.8666667" id="Path"></line>
+                <polyline id="Path" points="2.2 0 19.0666667 0 19.0666667 19.8"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

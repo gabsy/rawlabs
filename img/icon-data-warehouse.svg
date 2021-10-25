@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>stay-home</title>
+    <g id="PPT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Slide8-Copy-2" transform="translate(-954.000000, -396.000000)" stroke="#CD2023">
+            <g id="stay-home" transform="translate(954.752733, 397.581227)">
+                <polyline id="Path" stroke-width="1.5" points="0 10.6363636 13 0 26 10.6363636"></polyline>
+                <polyline id="Path" stroke-width="1.5" points="2.95454545 12.4090909 2.95454545 24.8181818 23.0454545 24.8181818 23.0454545 12.4090909"></polyline>
+                <g id="database-copy" transform="translate(8.263415, 10.053431)">
+                    <path d="M0,1.45741091 L0,9.47317089 C0,10.3111822 2.22255163,10.9305818 4.73658545,10.9305818 C7.25061926,10.9305818 9.47317089,10.3111822 9.47317089,9.47317089 L9.47317089,1.45741091" id="Path"></path>
+                    <path d="M9.47317089,1.45741091 C9.47317089,2.29542218 7.25061926,2.91482181 4.73658545,2.91482181 C2.22255163,2.91482181 0,2.29542218 0,1.45741091 C0,0.619399635 2.22255163,0 4.73658545,0 C7.25061926,0 9.47317089,0.619399635 9.47317089,1.45741091 Z" id="Path"></path>
+                    <path d="M9.47317089,5.4652909 C9.47317089,6.30330217 7.25061926,6.92270181 4.73658545,6.92270181 C2.22255163,6.92270181 0,6.30330217 0,5.4652909" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

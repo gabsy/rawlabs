@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="680px" height="1151px" viewBox="0 0 680 1151" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 7</title>
+    <defs>
+        <rect id="path-1" x="211.940258" y="329" width="214.091881" height="196"></rect>
+        <filter x="-32.2%" y="-39.8%" width="175.7%" height="182.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="12" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.139969406 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="83.552057%" y1="27.0649809%" x2="50%" y2="36.4512908%" id="linearGradient-3">
+            <stop stop-color="#FBFBFC" offset="0%"></stop>
+            <stop stop-color="#F9FAFB" offset="49.8813153%"></stop>
+            <stop stop-color="#DBE3E8" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="213.551299" y="525" width="214.091881" height="525"></rect>
+        <filter x="-32.2%" y="-14.9%" width="175.7%" height="130.9%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="12" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.104840472 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="61.4679314%" y1="27.0649809%" x2="50%" y2="36.4512908%" id="linearGradient-6">
+            <stop stop-color="#FBFBFC" offset="0%"></stop>
+            <stop stop-color="#F9FAFB" offset="49.8813153%"></stop>
+            <stop stop-color="#DBE3E8" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-7" x="0" y="152" width="214.091881" height="898"></rect>
+        <filter x="-32.2%" y="-8.7%" width="175.7%" height="118.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="12" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.104840472 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="0" y="0" width="214.091881" height="152"></rect>
+        <filter x="-32.2%" y="-51.3%" width="175.7%" height="206.6%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="12" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.139969406 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bar-chart" transform="translate(-809.000000, 48.000000)">
+            <g id="Group-7" transform="translate(847.000000, -0.055247)">
+                <g id="Rectangle-Copy-24" transform="translate(318.986198, 427.000000) scale(-1, 1) translate(-318.986198, -427.000000) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#D81505" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <rect id="Rectangle-Copy-27" fill="#D81505" x="427.908119" y="626" width="214.091881" height="424"></rect>
+                <g id="Rectangle-Copy-25">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                    <use fill="url(#linearGradient-6)" fill-rule="evenodd" xlink:href="#path-7"></use>
+                </g>
+                <g id="Rectangle-Copy-18">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                    <use fill="#D81505" fill-rule="evenodd" xlink:href="#path-9"></use>
+                </g>
+                <text id="Clasic-SQL" opacity="0.797919695" transform="translate(173.469187, 910.684185) rotate(-90.000000) translate(-173.469187, -910.684185) " font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="50" font-weight="bold" letter-spacing="-1.16666667" fill="#FFFFFF">
+                    <tspan x="47.9691866" y="929.684185">Clasic SQL</tspan>
+                </text>
+                <text id="New-SQL" opacity="0.797919695" transform="translate(385.469187, 929.184185) rotate(-90.000000) translate(-385.469187, -929.184185) " font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="50" font-weight="bold" letter-spacing="-1.16666667" fill="#FFFFFF">
+                    <tspan x="278.469187" y="948.184185">New SQL</tspan>
+                </text>
+                <text id="RAW" opacity="0.567382812" transform="translate(608.469187, 979.684185) rotate(-90.000000) translate(-608.469187, -979.684185) " font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="50" font-weight="bold" letter-spacing="-1.16666667" fill="#FFFFFF">
+                    <tspan x="551.969187" y="998.684185">RAW</tspan>
+                </text>
+                <text id="QUERY-TIME" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" letter-spacing="-0.326666667" fill="#FFFFFF" fill-opacity="0.936980988">
+                    <tspan x="31" y="38.8452474">QUERY TIME</tspan>
+                </text>
+                <text id="RESULTS-TIME" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" letter-spacing="-0.326666667" fill="#697177">
+                    <tspan x="31" y="193.845247">RESULTS TIME</tspan>
+                </text>
+                <text id="QUERY-TIME-Copy" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" letter-spacing="-0.326666667" fill="#FFFFFF" fill-opacity="0.936980988">
+                    <tspan x="248" y="367.845247">QUERY TIME</tspan>
+                </text>
+                <text id="QUERY-TIME-Copy-2" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" letter-spacing="-0.326666667" fill="#FFFFFF" fill-opacity="0.936980988">
+                    <tspan x="460" y="666.845247">QUERY TIME</tspan>
+                </text>
+                <text id="RESULTS-TIME-Copy" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" letter-spacing="-0.326666667" fill="#697177">
+                    <tspan x="248" y="563.845247">RESULTS TIME</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

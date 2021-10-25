@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="587px" height="352px" viewBox="0 0 587 352" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 8</title>
+    <defs>
+        <path d="M17.9471964,-7.25088215e-16 L488.552804,7.25088215e-16 C494.793435,-4.21297134e-16 497.056438,0.649779278 499.33792,1.86992893 C501.619401,3.09007857 503.409921,4.88059859 504.630071,7.16208008 C505.850221,9.44356156 506.5,11.7065652 506.5,17.9471964 L506.5,253.052804 C506.5,259.293435 505.850221,261.556438 504.630071,263.83792 C503.409921,266.119401 501.619401,267.909921 499.33792,269.130071 C497.056438,270.350221 494.793435,271 488.552804,271 L17.9471964,271 C11.7065652,271 9.44356156,270.350221 7.16208008,269.130071 C4.88059859,267.909921 3.09007857,266.119401 1.86992893,263.83792 C0.649779278,261.556438 2.80864756e-16,259.293435 -4.83392144e-16,253.052804 L4.83392144e-16,17.9471964 C-2.80864756e-16,11.7065652 0.649779278,9.44356156 1.86992893,7.16208008 C3.09007857,4.88059859 4.88059859,3.09007857 7.16208008,1.86992893 C9.44356156,0.649779278 11.7065652,4.21297134e-16 17.9471964,-7.25088215e-16 Z" id="path-1"></path>
+        <filter x="-12.1%" y="-19.7%" width="126.3%" height="149.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="5" dy="13" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="21" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.366777753 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A-query" transform="translate(-891.000000, -387.000000)">
+            <g id="Group-8" transform="translate(926.500000, 414.465169)">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#141414" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Group-7" transform="translate(33.500000, 25.101122)">
+                    <text id="SELECT-*-FROM-READ(“" font-family="SourceCodePro-Regular, Source Code Pro" font-size="16" font-weight="normal" line-spacing="27">
+                        <tspan x="36.75" y="18" fill="#5CE5FC">SELECT *</tspan>
+                        <tspan x="36.75" y="45" fill="#5CE5FC"></tspan>
+                        <tspan x="36.75" y="72" fill="#5CE5FC">FROM READ</tspan>
+                        <tspan x="123.15" y="72" fill="#FFFFFF">(“s3:</tspan>
+                        <tspan x="171.15" y="72" fill="#F95686">//</tspan>
+                        <tspan x="190.35" y="72" fill="#FFFFFF">…”) </tspan>
+                        <tspan x="228.75" y="72" fill="#67E5FF">AS</tspan>
+                        <tspan x="247.95" y="72" fill="#FFFFFF"> table1,</tspan>
+                        <tspan x="36.75" y="99" fill="#FFFFFF">     </tspan>
+                        <tspan x="84.75" y="99" fill="#F65086">READ_ORACLE</tspan>
+                        <tspan x="190.35" y="99" fill="#FFFFFF">(“,,,”, “table1”)</tspan>
+                        <tspan x="353.55" y="99" fill="#000000"></tspan>
+                        <tspan x="36.75" y="126" fill="#000000"></tspan>
+                        <tspan x="36.75" y="153" fill="#67E5FF">WHERE</tspan>
+                        <tspan x="36.75" y="180" fill="#67E5FF"></tspan>
+                        <tspan x="36.75" y="207" fill="#67E5FF">GROUP BY</tspan>
+                        <tspan x="113.55" y="207" fill="#000000"> </tspan>
+                        <tspan x="123.15" y="207" fill="#FFFFFF">..</tspan>
+                    </text>
+                    <line x1="42.5" y1="80.8988783" x2="42.5" y2="136.898878" id="Line-3" stroke="#403E41" stroke-linecap="square"></line>
+                    <line x1="82.5" y1="80.8988783" x2="82.5" y2="108" id="Line-3-Copy" stroke="#403E41" stroke-linecap="square"></line>
+                    <text id="1-2-3-4-5-6-7-8" font-family="SourceCodePro-Regular, Source Code Pro" font-size="18" font-weight="normal" line-spacing="27" fill="#5B595C">
+                        <tspan x="0" y="18">1</tspan>
+                        <tspan x="0" y="45">2</tspan>
+                        <tspan x="0" y="72">3</tspan>
+                        <tspan x="0" y="99">4</tspan>
+                        <tspan x="0" y="126">5</tspan>
+                        <tspan x="0" y="153">6</tspan>
+                        <tspan x="0" y="180">7</tspan>
+                        <tspan x="0" y="207">8</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

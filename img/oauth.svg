@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="32px" viewBox="0 0 27 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>privacy</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Features-+-Footer" transform="translate(-152.000000, -967.000000)" fill="#D81505" fill-rule="nonzero">
+            <g id="Check-icon-badge-Copy-9" transform="translate(135.050781, 953.139336)">
+                <g id="privacy" transform="translate(17.000000, 14.500000)">
+                    <path d="M13,10 C11.8954305,10 11,10.8954305 11,12 L11,14 L15,14 L15,12 C15,10.8954305 14.1045695,10 13,10 Z" id="Path"></path>
+                    <path d="M25.243,3.03 L13.243,0.03 C13.0835915,-0.0109792385 12.9164085,-0.0109792385 12.757,0.03 L0.757,3.03 C0.312068938,3.14145909 0,3.54132061 0,4 L0,18 C0,25.1797017 5.82029825,31 13,31 C20.1797017,31 26,25.1797017 26,18 L26,4 C26,3.54132061 25.6879311,3.14145909 25.243,3.03 Z M19,22 C19,22.5522847 18.5522847,23 18,23 L8,23 C7.44771525,23 7,22.5522847 7,22 L7,15 C7,14.4477153 7.44771525,14 8,14 L9,14 L9,12 C9,9.790861 10.790861,8 13,8 C15.209139,8 17,9.790861 17,12 L17,14 L18,14 C18.5522847,14 19,14.4477153 19,15 L19,22 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="31px" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-menu-team</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Get-Started" transform="translate(-295.000000, -583.000000)" stroke="#3F3F3F" stroke-width="2">
+            <g id="icon-menu-team" transform="translate(296.938053, 584.116456)">
+                <path d="M9.06546667,11.8710667 C8.61653333,10.9246667 7.65053333,10.2666667 6.53333333,10.2666667 L2.8,10.2666667 C1.25346667,10.2666667 0,11.5201333 0,13.0666667 L0,17.7333333 L1.86666667,17.7333333 L1.86666667,24.2666667 L7.46666667,24.2666667" id="Path"></path>
+                <circle id="Oval" cx="4.66666667" cy="4.66666667" r="2.8"></circle>
+                <path d="M18.9345333,11.8710667 C19.3834667,10.9246667 20.3494667,10.2666667 21.4666667,10.2666667 L25.2,10.2666667 C26.7465333,10.2666667 28,11.5201333 28,13.0666667 L28,17.7333333 L26.1333333,17.7333333 L26.1333333,24.2666667 L20.5333333,24.2666667" id="Path"></path>
+                <circle id="Oval" cx="23.3333333" cy="4.66666667" r="2.8"></circle>
+                <path d="M16.8,28 L11.2,28 L11.2,20.5333333 L8.4,20.5333333 L8.4,14 C8.4,11.9382667 10.0716,10.2666667 12.1333333,10.2666667 L15.8666667,10.2666667 C17.9284,10.2666667 19.6,11.9382667 19.6,14 L19.6,20.5333333 L16.8,20.5333333 L16.8,28 Z" id="Path"></path>
+                <circle id="Oval" cx="14" cy="3.73333333" r="3.73333333"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,39 @@
+.page-template-template-content-one {
+
+    .site-main {
+        > .block-inner:first-of-type {
+            background: url('img/bg-squares.svg') 50% 10px no-repeat;
+            background-size: contain;
+            padding-bottom: 2rem;
+        }
+    }
+    .top-card {
+        background: #000;
+        border-radius: 6px;
+        color: #CDCDCD;
+        padding: 30px 35px 30px;
+        font-weight: 300;
+        margin: 0 auto 40px;
+        position: relative;
+
+        .btn {
+            transition: transform 0.4 ease;
+            padding: 12px;
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%) translateY(50%) rotate(90deg) scale(1.4);
+        }
+        
+        
+        @media (min-width: 64em) {
+             max-width: 90%;
+             margin-bottom: 90px;
+             box-shadow: 5px 13px 42px -2px rgba(0,0,0,0.37);
+
+             ul {
+                 padding-left:20px;
+             }
+          }
+    }    
+}

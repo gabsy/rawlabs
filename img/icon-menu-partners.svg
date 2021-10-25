@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="27px" viewBox="0 0 31 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-menu-partners</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Get-Started" transform="translate(-359.000000, -583.000000)" stroke="#3F3F3F" stroke-width="2">
+            <g id="icon-menu-partners" transform="translate(360.938053, 584.116456)">
+                <circle id="Oval" cx="4.2" cy="3.26666667" r="3.26666667"></circle>
+                <path d="M12.1333333,16.8 C7.19413333,14.6421333 7.46666667,10.2666667 3.73333333,10.2666667 C1.70035497,10.334787 0.0681202922,11.9670216 0,14 L0,24.2666667 L7.46666667,24.2666667 L7.46666667,17.7333333" id="Path"></path>
+                <path d="M15.8666667,16.8 C20.8058667,14.6421333 20.5333333,10.2666667 24.2666667,10.2666667 C26.299645,10.334787 27.9318797,11.9670216 28,14 L28,24.2666667 L20.5333333,24.2666667 L20.5333333,17.7333333" id="Path"></path>
+                <circle id="Oval" cx="23.8" cy="3.26666667" r="3.26666667"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

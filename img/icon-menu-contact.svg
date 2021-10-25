@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="31px" viewBox="0 0 30 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-menu-contact</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Get-Started" transform="translate(-241.000000, -583.000000)" stroke="#3F3F3F" stroke-width="2">
+            <g id="icon-menu-contact" transform="translate(242.000000, 584.116456)">
+                <circle id="Oval" cx="14" cy="14" r="6"></circle>
+                <path d="M19.6,26.835 C13.9261821,29.3112569 7.29965306,27.7671233 3.30488613,23.0378638 C-0.689880798,18.3086043 -1.10433103,11.5171784 2.28572306,6.33725642 C5.67577715,1.1573345 12.0653696,-1.18111458 17.9981927,0.586841124 C23.9310159,2.35479682 27.9983251,7.80935746 28,14 L28,16 C28,18.209139 26.209139,20 24,20 C21.790861,20 20,18.209139 20,16 L20,8" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

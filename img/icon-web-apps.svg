@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="21px" viewBox="0 0 25 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-web-aps</title>
+    <g id="PPT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Slide8-Copy-2" transform="translate(-834.000000, -191.000000)" stroke="#D81505" stroke-width="1.5">
+            <g id="icon-web-aps" transform="translate(835.500000, 192.000000)">
+                <rect id="Rectangle" x="0" y="0" width="21.9230769" height="19"></rect>
+                <line x1="0" y1="3.65384615" x2="21.9230769" y2="3.65384615" id="Path"></line>
+                <line x1="4.38461538" y1="0" x2="4.38461538" y2="3.65384615" id="Path"></line>
+                <polyline id="Path" points="8.03846154 8.76923077 5.84615385 10.9615385 8.03846154 13.1538462"></polyline>
+                <polyline id="Path" points="13.8846154 8.76923077 16.0769231 10.9615385 13.8846154 13.1538462"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

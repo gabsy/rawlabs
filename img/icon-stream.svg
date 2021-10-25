@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="22px" viewBox="0 0 27 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>decentralize</title>
+    <g id="PPT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Slide8-Copy-2" transform="translate(-880.000000, -527.000000)">
+            <g id="decentralize" transform="translate(893.730598, 538.101867) rotate(-270.000000) translate(-893.730598, -538.101867) translate(883.986068, 525.601867)">
+                <circle id="Oval" stroke="#CD2023" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" cx="9.74452986" cy="13.1673566" r="2.08811354"></circle>
+                <circle id="Oval" stroke="#CD2023" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" cx="9.74452986" cy="22.9118865" r="2.08811354"></circle>
+                <circle id="Oval" stroke="#CD2023" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" cx="2.08811354" cy="20.8237729" r="2.08811354"></circle>
+                <line x1="9.74452986" y1="15.2554701" x2="9.74452986" y2="20.8237729" id="Path" stroke="#CD2023" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                <polyline id="Path" stroke="#CD2023" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="2.08811354 18.7356594 2.08811354 15.951508 7.65641632 13.1673566"></polyline>
+                <circle id="Oval" stroke="#CD2023" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" cx="17.4009462" cy="20.8237729" r="2.08811354"></circle>
+                <polyline id="Path" stroke="#CD2023" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="17.4009462 18.7356594 17.4009462 15.951508 11.8326434 13.1673566"></polyline>
+                <polygon id="Line-5" fill="#CD2023" fill-rule="nonzero" transform="translate(9.744530, 8.667024) rotate(-90.000000) translate(-9.744530, -8.667024) " points="12.5286812 7.94698531 12.5286812 9.38706361 6.96037847 9.38706361 6.96037847 7.94698531"></polygon>
+                <polygon id="Rectangle" fill="#CD2023" transform="translate(9.744530, 3.063448) rotate(-90.000000) translate(-9.744530, -3.063448) " points="6.68108203 -8.8817842e-16 12.8079777 2.87414365 6.68108203 6.12689565"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

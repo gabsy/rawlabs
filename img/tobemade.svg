@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="571px" height="378px" viewBox="0 0 571 378" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 14</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-14" transform="translate(4.000000, 2.000000)">
+            <g id="document-copy" transform="translate(-0.000000, -0.000000)" stroke="#C8C8C8" stroke-linecap="square">
+                <rect id="Rectangle" stroke-width="7" x="0" y="31.3333333" width="229.777778" height="261.111111"></rect>
+                <polyline id="Path" stroke-width="3" points="31.3333333 0 261.111111 0 261.111111 261.111111"></polyline>
+                <line x1="41.7777778" y1="99.2222222" x2="188" y2="99.2222222" id="Path" stroke-width="3"></line>
+                <line x1="41.7777778" y1="141" x2="188" y2="141" id="Path" stroke-width="3"></line>
+                <line x1="41.7777778" y1="182.777778" x2="188" y2="182.777778" id="Path" stroke-width="3"></line>
+                <line x1="41.7777778" y1="224.555556" x2="99.2222222" y2="224.555556" id="Path" stroke-width="3"></line>
+            </g>
+            <g id="document-copy-copy" transform="translate(303.528345, -0.000000)" stroke="#C8C8C8" stroke-linecap="square">
+                <rect id="Rectangle" stroke-width="7" x="0" y="31.3333333" width="229.777778" height="261.111111"></rect>
+                <polyline id="Path" stroke-width="3" points="31.3333333 0 261.111111 0 261.111111 261.111111"></polyline>
+                <line x1="41.7777778" y1="99.2222222" x2="188" y2="99.2222222" id="Path" stroke-width="3"></line>
+                <line x1="41.7777778" y1="141" x2="188" y2="141" id="Path" stroke-width="3"></line>
+                <line x1="41.7777778" y1="182.777778" x2="188" y2="182.777778" id="Path" stroke-width="3"></line>
+                <line x1="41.7777778" y1="224.555556" x2="99.2222222" y2="224.555556" id="Path" stroke-width="3"></line>
+            </g>
+            <text id="ILLUSTRATION-TO-BE-M" font-family="Lato-Bold, Lato" font-size="22" font-weight="bold" fill="#ADADAD">
+                <tspan x="130.875283" y="374.979592">ILLUSTRATION TO BE MADE</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
